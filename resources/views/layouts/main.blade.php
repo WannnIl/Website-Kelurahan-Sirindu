@@ -445,7 +445,6 @@
                         <li><a href="{{ route('kkn') }}">Mahasiswa KKN</a></li>
                     </ul>
                 </li>
-                <li><a href="{{ route('login') }}" class="btn btn-primary" style="padding: 0.75rem 1.5rem; color: white;">Login Admin</a></li>
             </ul>
         </div>
     </nav>
